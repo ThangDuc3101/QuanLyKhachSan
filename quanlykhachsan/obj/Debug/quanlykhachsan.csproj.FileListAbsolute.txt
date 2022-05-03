@@ -1,0 +1,213 @@
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.csprojAssemblyReference.cache
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.cache
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.QLPhong.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Sudungdichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Traphong.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemkhachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemphong.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmGiaodienchinh.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.csprojAssemblyReference.cache
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.frmGiaodienchinh.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.QLPhong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.Sudungdichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemkhachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.Traphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.cache
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.csprojAssemblyReference.cache
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.frmGiaodienchinh.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.QLPhong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.Sudungdichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemkhachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.Traphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.cache
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.csprojAssemblyReference.cache
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.frmGiaodienchinh.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.QLPhong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.Sudungdichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong2.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemkhachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.Traphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.cache
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.traphong2.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.csprojAssemblyReference.cache
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.frmGiaodienchinh.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.QLPhong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.Sudungdichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.sudungdv.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong2.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemkhachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.Traphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.traphong2.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.cache
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.thongtin.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.hoadonphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.QL_HOADON.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.testdv.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.hoadondichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.csprojAssemblyReference.cache
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.frmGiaodienchinh.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.hoadondichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.hoadonphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.QLPhong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.QL_HOADON.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.sudungdv.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.testdv.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.thongtin.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemkhachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.traphong2.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.cache
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.qlhoadondv.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.chitiethoadondv.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.TKDOANHTHUPHONG.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.TKDOANHTHUDV.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.chitiethoadondv.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.frmGiaodienchinh.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.hoadondichvu.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.hoadonphong.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.qlhoadondv.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.QLPhong.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.QL_HOADON.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.sudungdv.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.testdv.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.thongtin.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemkhachhang.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemphong.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.TKDOANHTHUDV.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.TKDOANHTHUPHONG.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.traphong2.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.Cache
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.csprojResolveAssemblyReference.cache
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.csprojResolveAssemblyReference.cache
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.chitiethoadondv.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmGiaodienchinh.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.hoadondichvu.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.hoadonphong.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.qlhoadondv.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.QLPhong.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.QL_HOADON.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.sudungdv.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.testdv.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.thongtin.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemkhachhang.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemphong.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.TKDOANHTHUDV.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.TKDOANHTHUPHONG.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.traphong2.resources
+C:\Users\Khánh\Desktop\cn .net\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.Cache
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.AssemblyReference.cache
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.chitiethoadondv.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.frmGiaodienchinh.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.hoadondichvu.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.hoadonphong.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.qlhoadondv.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.QLPhong.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.QL_HOADON.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.sudungdv.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.testdv.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.thongtin.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemkhachhang.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemphong.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.TKDOANHTHUDV.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.TKDOANHTHUPHONG.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.traphong2.resources
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.cache
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+C:\Users\Thang\OneDrive\Desktop\c\quanlykhachsan\obj\Debug\quanlykhachsan.pdb

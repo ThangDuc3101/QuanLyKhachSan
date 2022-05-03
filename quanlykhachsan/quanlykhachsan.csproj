@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6AD2A346-B12D-45CB-951A-4531AE194D59}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>quanlykhachsan</RootNamespace>
+    <AssemblyName>quanlykhachsan</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="chitiethoadondv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chitiethoadondv.Designer.cs">
+      <DependentUpon>chitiethoadondv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connection.cs" />
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGiaodienchinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiaodienchinh.Designer.cs">
+      <DependentUpon>frmGiaodienchinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hoadondichvu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hoadondichvu.Designer.cs">
+      <DependentUpon>hoadondichvu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hoadonphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hoadonphong.Designer.cs">
+      <DependentUpon>hoadonphong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="qlhoadondv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="qlhoadondv.Designer.cs">
+      <DependentUpon>qlhoadondv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLPhong.Designer.cs">
+      <DependentUpon>QLPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QL_Dichvu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_Dichvu.Designer.cs">
+      <DependentUpon>QL_Dichvu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QL_HOADON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_HOADON.Designer.cs">
+      <DependentUpon>QL_HOADON.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QL_Khachhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_Khachhang.Designer.cs">
+      <DependentUpon>QL_Khachhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="quanlykhachsandemo2304DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>quanlykhachsandemo2304DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="quanlykhachsanDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>quanlykhachsanDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sudungdv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sudungdv.Designer.cs">
+      <DependentUpon>sudungdv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="testdv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="testdv.Designer.cs">
+      <DependentUpon>testdv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="thongtin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thongtin.Designer.cs">
+      <DependentUpon>thongtin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Thuephong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thuephong.Designer.cs">
+      <DependentUpon>Thuephong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="timkiemkhachhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timkiemkhachhang.Designer.cs">
+      <DependentUpon>timkiemkhachhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="timkiemphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timkiemphong.Designer.cs">
+      <DependentUpon>timkiemphong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TKDOANHTHUDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TKDOANHTHUDV.Designer.cs">
+      <DependentUpon>TKDOANHTHUDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TKDOANHTHUPHONG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TKDOANHTHUPHONG.Designer.cs">
+      <DependentUpon>TKDOANHTHUPHONG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="traphong2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="traphong2.Designer.cs">
+      <DependentUpon>traphong2.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="chitiethoadondv.resx">
+      <DependentUpon>chitiethoadondv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGiaodienchinh.resx">
+      <DependentUpon>frmGiaodienchinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hoadondichvu.resx">
+      <DependentUpon>hoadondichvu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hoadonphong.resx">
+      <DependentUpon>hoadonphong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="qlhoadondv.resx">
+      <DependentUpon>qlhoadondv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLPhong.resx">
+      <DependentUpon>QLPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL_Dichvu.resx">
+      <DependentUpon>QL_Dichvu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL_HOADON.resx">
+      <DependentUpon>QL_HOADON.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL_Khachhang.resx">
+      <DependentUpon>QL_Khachhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sudungdv.resx">
+      <DependentUpon>sudungdv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="testdv.resx">
+      <DependentUpon>testdv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thongtin.resx">
+      <DependentUpon>thongtin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thuephong.resx">
+      <DependentUpon>Thuephong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timkiemkhachhang.resx">
+      <DependentUpon>timkiemkhachhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timkiemphong.resx">
+      <DependentUpon>timkiemphong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TKDOANHTHUDV.resx">
+      <DependentUpon>TKDOANHTHUDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TKDOANHTHUPHONG.resx">
+      <DependentUpon>TKDOANHTHUPHONG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="traphong2.resx">
+      <DependentUpon>traphong2.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="quanlykhachsandemo2304DataSet.xsc">
+      <DependentUpon>quanlykhachsandemo2304DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="quanlykhachsandemo2304DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>quanlykhachsandemo2304DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="quanlykhachsandemo2304DataSet.xss">
+      <DependentUpon>quanlykhachsandemo2304DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="quanlykhachsanDataSet1.xsc">
+      <DependentUpon>quanlykhachsanDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="quanlykhachsanDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>quanlykhachsanDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="quanlykhachsanDataSet1.xss">
+      <DependentUpon>quanlykhachsanDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\%24this.BackgroundImage.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
